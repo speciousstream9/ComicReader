@@ -1,0 +1,19 @@
+#myimage {
+    height: 300px;
+    width: 500px;
+}
+#comic_field {
+    height: 300px;
+    width: 500px;
+    
+}
+#comic_field #buttonback {
+    display: relative;
+    bottom: 50%;
+    right: 0;
+}
+
+#comic_field #buttonforward {
+    display: absolute;
+    left:0;
+}
